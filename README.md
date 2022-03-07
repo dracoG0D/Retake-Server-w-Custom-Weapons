@@ -1,2 +1,2 @@
 # Retake-Server-w-Custom-Weapons
-Download Custom Models here: ...
+Check releases section for the source, free to use!
